@@ -13,14 +13,14 @@ function Menu() {
       </li>
       <br></br>
       <li>
-        <a link to="Calendario">
+        <a link to="Calendar">
           <ImCalendar size={30} /> .Calendário
         </a>
       </li>
 
       <br></br>
       <li>
-        <a link to="Promocoes">
+        <a link to="Promoções">
           <ImCreditCard size={30} /> .Promoções
         </a>
       </li>
